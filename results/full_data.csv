@@ -1,0 +1,11 @@
+backbone,seed,accuracy
+dinov2_vits14,0,1.0
+dinov2_vits14,1,1.0
+dinov2_vits14,2,1.0
+dinov2_vits14,3,1.0
+dinov2_vits14,4,1.0
+resnet18,0,1.0
+resnet18,1,1.0
+resnet18,2,1.0
+resnet18,3,1.0
+resnet18,4,1.0
